@@ -1,0 +1,6 @@
+PyPDF2
+re
+nltk
+scikit-learn 
+tf-idf vectorizer
+cosine similarity
